@@ -10,7 +10,7 @@ public class GeneradorMain {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("\n\n * * * * * GENERADOR DE CONTRASEÑAS V1.0 * * * * *");
+		System.out.println("\n\n * * * * * GENERADOR DE CONTRASEÑAS V1 * * * * *");
 		System.out.println("\n # # # SELECCIONE UNA OPCION # # #");
 		System.out.println("   1. Contraseña fija con parámetro");
 		System.out.println("   2. Contraseña aleatoria");
